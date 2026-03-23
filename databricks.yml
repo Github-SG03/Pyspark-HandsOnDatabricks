@@ -1,7 +1,7 @@
 # This is a Databricks asset bundle definition for pyspark_handson.
 # See https://docs.databricks.com/dev-tools/bundles/index.html for documentation.
 bundle:
-  name: Pyspark-HandsOn
+  name: Pyspark-HandsOnDatabricks
   uuid: cbaf5aee-be74-48c6-9323-d15dfe34ca43
 
 include:
